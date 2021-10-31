@@ -1,0 +1,57 @@
+1. Balaclava
+2. Baseball Cap
+3. Boater Hat
+4. Bobble Hat
+5. Boonie Hat
+6. Bowler Hat
+7. Campaign Hat
+8. Chupalla Hat
+9. Conical Hat
+10. Coonskin Hat
+11. Cowboy Hat
+12. Custodian Hat
+13. The Deerstalker
+14. Fedora
+15. Fez
+16. Ivy Cap
+17. Garrison Cap
+18. Homburg Hat
+19. Kepi Hat
+20. Panama Hat
+21. Pakul Hat
+22. Pith Helmet
+23. Pork Pie Hat
+24. Peaked Hat
+25. Tam Cap
+26. Top Hat
+27. Toque Hat (aka Chef’s Hat)
+28. Trapper Hat
+29. Trilby Hat
+30. Turban
+31. Tyrolean Hat
+32. The Umbrella Hat
+33. Ushanka Hat
+34. Whoopee Cap
+35. The Yarmulke
+36. Beret
+37. Bonnet
+38. The Breton Cap
+39. Bucket Hat
+40. Cartwheel Hat
+41. Cloche Hat
+42. Cocktail Hat
+43. Derby Hat
+44. Fascinator Hat
+45. Floppy Hat
+46. Half Hat
+47. Kettle Brim Hat
+48. Papakha Hat
+49. Newsboy Hat
+50. Peach Basket Hat
+51. Pillbox Hat
+52. Sailor Hat
+53. The Sou’Wester Hat
+54. Straw Hat
+55. Sun Hat
+56. Vagabond Hat
+57. Tin Foil Hat

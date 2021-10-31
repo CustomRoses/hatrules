@@ -1,0 +1,8 @@
+The hat tables are in hats.txt and hatnew.txt
+
+your current hat tier remains through games.
+you can only keep one hat through games. at the start of the game, you can choose one of the hats you had in the previous game.
+
+
+
+
