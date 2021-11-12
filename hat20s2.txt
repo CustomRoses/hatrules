@@ -1,0 +1,21 @@
+1. Balaclava
+2. Baseball Cap
+3. Boater Hat
+4. Bobble Hat
+5. Boonie Hat
+6. Bowler Hat
+7. Campaign Hat
+8. Chupalla Hat
+9. Conical Hat
+10. Coonskin Hat
+11. Cowboy Hat
+12. Custodian Hat
+13. The Deerstalker
+14. Fedora
+15. Fez
+16. Ivy Cap
+17. Garrison Cap
+18. Homburg Hat
+19. Kepi Hat
+20. Panama Hat
+
