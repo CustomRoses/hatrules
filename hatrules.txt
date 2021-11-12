@@ -1,7 +1,19 @@
-The hat tables are in hats.txt and hatnew.txt
+The hat tables are in the text files in this directory.
+
+The hat tiers in each season are as follows:
+Tier 1: d6 
+Tier 2: d8
+Tier 3: d10
+Tier 4: d12
+Tier 5: d20
+
+you ascend every time you collect every hat from your current tier. Hats from different tiers/series act as jokers.
+if you've collected all hats from Tier 4 in a series you 
 
 your current hat tier remains through games.
 you can only keep one hat through games. at the start of the game, you can choose one of the hats you had in the previous game.
+should you collect 3 of the same hat, you will receive a golden hat. Every time you receive a golden hat, you receive a hat of your choice from your current tier.
+should you collect 3 of the same golden hat, you receive a platinum hat. Every time you create a platinum hat, you receive a hat of your choice.
 
 
 
