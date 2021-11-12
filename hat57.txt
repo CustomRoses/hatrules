@@ -18,6 +18,26 @@
 18. Homburg Hat
 19. Kepi Hat
 20. Panama Hat
+21. Pakul Hat
+22. Pith Helmet
+23. Pork Pie Hat
+24. Peaked Hat
+25. Tam Cap
+26. Top Hat
+27. Toque Hat (aka Chef’s Hat)
+28. Trapper Hat
+29. Trilby Hat
+30. Turban
+31. Tyrolean Hat
+32. The Umbrella Hat
+33. Ushanka Hat
+34. Whoopee Cap
+35. The Yarmulke
+36. Beret
+37. Bonnet
+38. The Breton Cap
+39. Bucket Hat
+40. Cartwheel H
 41. Cloche Hat
 42. Cocktail Hat
 43. Derby Hat
